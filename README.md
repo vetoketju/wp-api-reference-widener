@@ -8,3 +8,5 @@ http://msdn.microsoft.com/en-us/library/windowsphone/develop/ff626516(v=vs.105).
 
 Chrome extension install instructions:
 http://developer.chrome.com/extensions/getstarted.html#unpacked
+
+Made with http://extensionizr.com/
