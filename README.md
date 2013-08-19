@@ -10,3 +10,5 @@ Chrome extension install instructions:
 http://developer.chrome.com/extensions/getstarted.html#unpacked
 
 Made with http://extensionizr.com/
+
+![Alt text](versus.png "Comparison image")
